@@ -1,4 +1,4 @@
-const lodash = require('lodash')
+const lodash = require('lodash');
 
 const a = 'Foo Bar'; // fooBar
 const b = lodash.camelCase(a);
